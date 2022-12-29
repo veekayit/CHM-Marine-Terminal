@@ -1,0 +1,9 @@
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.BAL\bin\Release\CTS.BAL.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.BAL\bin\Release\CTS.BAL.pdb
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.BAL\bin\Release\CTS.DAL.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.BAL\bin\Release\CTS.Model.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.BAL\bin\Release\CTS.DAL.pdb
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.BAL\bin\Release\CTS.Model.pdb
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.BAL\obj\Release\CTS.BAL.csprojResolveAssemblyReference.cache
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.BAL\obj\Release\CTS.BAL.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.BAL\obj\Release\CTS.BAL.pdb

@@ -1,0 +1,8 @@
+E:\D DRIVE BACKUP\Projects\CHINTHA\Chintha - Signal R\Albatross.DAL\bin\Release\Chintha.DAL.dll.config
+E:\D DRIVE BACKUP\Projects\CHINTHA\Chintha - Signal R\Albatross.DAL\bin\Release\Chintha.DAL.dll
+E:\D DRIVE BACKUP\Projects\CHINTHA\Chintha - Signal R\Albatross.DAL\bin\Release\Chintha.DAL.pdb
+E:\D DRIVE BACKUP\Projects\CHINTHA\Chintha - Signal R\Albatross.DAL\bin\Release\Chintha.Model.dll
+E:\D DRIVE BACKUP\Projects\CHINTHA\Chintha - Signal R\Albatross.DAL\bin\Release\Chintha.Model.pdb
+E:\D DRIVE BACKUP\Projects\CHINTHA\Chintha - Signal R\Albatross.DAL\obj\Release\Chintha.DAL.csprojResolveAssemblyReference.cache
+E:\D DRIVE BACKUP\Projects\CHINTHA\Chintha - Signal R\Albatross.DAL\obj\Release\Chintha.DAL.dll
+E:\D DRIVE BACKUP\Projects\CHINTHA\Chintha - Signal R\Albatross.DAL\obj\Release\Chintha.DAL.pdb

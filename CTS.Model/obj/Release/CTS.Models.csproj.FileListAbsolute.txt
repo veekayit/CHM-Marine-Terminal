@@ -1,0 +1,5 @@
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.Model\bin\Release\CTS.Model.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.Model\bin\Release\CTS.Model.pdb
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.Model\obj\Release\CTS.Model.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.Model\obj\Release\CTS.Model.pdb
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.Model\obj\Release\CTS.Models.csprojResolveAssemblyReference.cache

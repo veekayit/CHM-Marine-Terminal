@@ -1,0 +1,32 @@
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross\Albatross.DAL\bin\Debug\Albatross.DAL.dll.config
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross\Albatross.DAL\bin\Debug\Albatross.DAL.dll
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross\Albatross.DAL\bin\Debug\Albatross.DAL.pdb
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross\Albatross.DAL\bin\Debug\Albatross.Model.dll
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross\Albatross.DAL\bin\Debug\Albatross.Model.pdb
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross\Albatross.DAL\obj\Debug\Albatross.DAL.csprojResolveAssemblyReference.cache
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross\Albatross.DAL\obj\Debug\Albatross.DAL.dll
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross\Albatross.DAL\obj\Debug\Albatross.DAL.pdb
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 1\Albatross.DAL\bin\Debug\Albatross.DAL.dll.config
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 1\Albatross.DAL\bin\Debug\Albatross.DAL.dll
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 1\Albatross.DAL\bin\Debug\Albatross.DAL.pdb
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 1\Albatross.DAL\bin\Debug\Albatross.Model.dll
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 1\Albatross.DAL\bin\Debug\Albatross.Model.pdb
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 1\Albatross.DAL\obj\Debug\Albatross.DAL.csprojResolveAssemblyReference.cache
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 1\Albatross.DAL\obj\Debug\Albatross.DAL.dll
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 1\Albatross.DAL\obj\Debug\Albatross.DAL.pdb
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 2\Albatross.DAL\bin\Debug\Albatross.DAL.dll.config
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 2\Albatross.DAL\bin\Debug\Albatross.DAL.dll
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 2\Albatross.DAL\bin\Debug\Albatross.DAL.pdb
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 2\Albatross.DAL\bin\Debug\Albatross.Model.dll
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 2\Albatross.DAL\bin\Debug\Albatross.Model.pdb
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 2\Albatross.DAL\obj\Debug\Albatross.DAL.csprojResolveAssemblyReference.cache
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 2\Albatross.DAL\obj\Debug\Albatross.DAL.dll
+E:\D DRIVE BACKUP\Projects\New Albatross\Albatross - 2\Albatross.DAL\obj\Debug\Albatross.DAL.pdb
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.DAL\bin\Debug\Albatross.DAL.dll.config
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.DAL\bin\Debug\Albatross.DAL.dll
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.DAL\bin\Debug\Albatross.DAL.pdb
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.DAL\bin\Debug\Albatross.Model.dll
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.DAL\bin\Debug\Albatross.Model.pdb
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.DAL\obj\Debug\Albatross.DAL.csprojResolveAssemblyReference.cache
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.DAL\obj\Debug\Albatross.DAL.dll
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.DAL\obj\Debug\Albatross.DAL.pdb

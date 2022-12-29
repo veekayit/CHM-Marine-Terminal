@@ -1,0 +1,24 @@
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\Albatross.DAL\bin\Debug\CTS.DAL.dll.config
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\Albatross.DAL\bin\Debug\CTS.DAL.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\Albatross.DAL\bin\Debug\CTS.DAL.pdb
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\Albatross.DAL\bin\Debug\CTS.Model.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\Albatross.DAL\bin\Debug\CTS.Model.pdb
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\Albatross.DAL\obj\Debug\CTS.DAL.csprojResolveAssemblyReference.cache
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\Albatross.DAL\obj\Debug\CTS.DAL.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\Albatross.DAL\obj\Debug\CTS.DAL.pdb
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.DAL\bin\Debug\CTS.DAL.dll.config
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.DAL\bin\Debug\CTS.DAL.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.DAL\bin\Debug\CTS.DAL.pdb
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.DAL\bin\Debug\CTS.Model.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.DAL\bin\Debug\CTS.Model.pdb
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.DAL\obj\Debug\CTS.DAL.csprojResolveAssemblyReference.cache
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.DAL\obj\Debug\CTS.DAL.dll
+E:\D DRIVE BACKUP\Projects\CHM MARINE\CHM NEW\CTS.DAL\obj\Debug\CTS.DAL.pdb
+F:\PROJECTS\VEEKAY CONSULTANCY\Chm Marine\CHM NEW\CTS.DAL\bin\Debug\CTS.DAL.dll.config
+F:\PROJECTS\VEEKAY CONSULTANCY\Chm Marine\CHM NEW\CTS.DAL\bin\Debug\CTS.DAL.dll
+F:\PROJECTS\VEEKAY CONSULTANCY\Chm Marine\CHM NEW\CTS.DAL\bin\Debug\CTS.DAL.pdb
+F:\PROJECTS\VEEKAY CONSULTANCY\Chm Marine\CHM NEW\CTS.DAL\bin\Debug\CTS.Model.dll
+F:\PROJECTS\VEEKAY CONSULTANCY\Chm Marine\CHM NEW\CTS.DAL\bin\Debug\CTS.Model.pdb
+F:\PROJECTS\VEEKAY CONSULTANCY\Chm Marine\CHM NEW\CTS.DAL\obj\Debug\CTS.DAL.csprojResolveAssemblyReference.cache
+F:\PROJECTS\VEEKAY CONSULTANCY\Chm Marine\CHM NEW\CTS.DAL\obj\Debug\CTS.DAL.dll
+F:\PROJECTS\VEEKAY CONSULTANCY\Chm Marine\CHM NEW\CTS.DAL\obj\Debug\CTS.DAL.pdb

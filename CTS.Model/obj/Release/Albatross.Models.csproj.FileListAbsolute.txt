@@ -1,0 +1,5 @@
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.Model\bin\Release\Albatross.Model.dll
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.Model\bin\Release\Albatross.Model.pdb
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.Model\obj\Release\Albatross.Models.csprojResolveAssemblyReference.cache
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.Model\obj\Release\Albatross.Model.dll
+E:\D DRIVE BACKUP\Projects\Albatross ASPX\Albatross\Albatross.Model\obj\Release\Albatross.Model.pdb

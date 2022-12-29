@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9924D7B6-2506-47BE-AC6D-B5F39F06E286}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CTS.Models</RootNamespace>
+    <AssemblyName>CTS.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account_Type.cs" />
+    <Compile Include="Booking_Master.cs" />
+    <Compile Include="Booking_Master_Sub.cs" />
+    <Compile Include="Branch_Master.cs" />
+    <Compile Include="Client_Group.cs" />
+    <Compile Include="Consignee_Master.cs" />
+    <Compile Include="Container_Type_Master.cs" />
+    <Compile Include="Cont_In.cs" />
+    <Compile Include="Cont_In_Edit_Request.cs" />
+    <Compile Include="Cont_Main.cs" />
+    <Compile Include="Cont_Out.cs" />
+    <Compile Include="Cont_Size_Master.cs" />
+    <Compile Include="Currency_Master.cs" />
+    <Compile Include="CustomerMaster.cs" />
+    <Compile Include="Damage_Code_Master.cs" />
+    <Compile Include="Damage_Code_Rates.cs" />
+    <Compile Include="Dept_Master.cs" />
+    <Compile Include="Estimate_Details.cs" />
+    <Compile Include="Estimate_Imageprop.cs" />
+    <Compile Include="Estimate_Master.cs" />
+    <Compile Include="Estimate_Tax_Details.cs" />
+    <Compile Include="GateInImport.cs" />
+    <Compile Include="Location_Description.cs" />
+    <Compile Include="Location_Master.cs" />
+    <Compile Include="Main_Account_Master.cs" />
+    <Compile Include="Menu_Master.cs" />
+    <Compile Include="Months.cs" />
+    <Compile Include="Movement_Master.cs" />
+    <Compile Include="NameValue.cs" />
+    <Compile Include="Permission.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repair_Type_Master.cs" />
+    <Compile Include="RPR_DamageCode.cs" />
+    <Compile Include="RPR_RepairCode.cs" />
+    <Compile Include="Tax_Master.cs" />
+    <Compile Include="Tbl_EstImages.cs" />
+    <Compile Include="Transporter_Master.cs" />
+    <Compile Include="User_Group.cs" />
+    <Compile Include="User_Master.cs" />
+    <Compile Include="Vessel_Master.cs" />
+    <Compile Include="ViewModels\VMContainerImage.cs" />
+    <Compile Include="Yard_Master.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
